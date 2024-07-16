@@ -226,13 +226,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/ToDo.jpeg"),
-      projectName: "Perma List App ",
-      projectDesc: "it uses postgres database SQL and performs CRUD operations",
+      image: require("./assets/images/new_portal.png"),
+      projectName: "News Portal ",
+      projectDesc: "it flashes news related to the searched keyword by fetching API",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://news-portal-rho-dusky.vercel.app/"
         }
       ]
     }
